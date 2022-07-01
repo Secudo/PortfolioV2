@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkportfolio"]=globalThis["webpackChunkportfolio"]||[]).push([[149],{1149:(o,l,s)=>{s.r(l),s.d(l,{default:()=>h});const t={},a=t,h=a}}]);
